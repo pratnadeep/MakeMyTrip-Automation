@@ -1,11 +1,15 @@
-Scope of Work:
+**Scope of Work:**
  
 
-Automated the following test cases:
+**Automated the following test cases:**
 
-**Verify the Leetcode Homepage URL
-Verify Problem Set URL and Display First 5 Questions
-Verify the Two Sum problem
-Ensure the submissions tab displays "Register or Sign In"**
+1. Verify the Leetcode Homepage URL
+
+2. Verify Problem Set URL and Display First 5 Questions
+   
+4. Verify the Two Sum problem
+   
+6. Ensure the submissions tab displays "Register or Sign In"
+   
 Skill Used:
 **Selenium, Dynamic Xpaths**
