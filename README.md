@@ -3,13 +3,9 @@
 
 **Automated the following test cases:**
 
-1. Verify the Leetcode Homepage URL
-
-2. Verify Problem Set URL and Display First 5 Questions
-   
-4. Verify the Two Sum problem
-   
-6. Ensure the submissions tab displays "Register or Sign In"
-   
-Skill Used:
-**Selenium, Dynamic Xpaths**
+Verify Make My Trip Homepage URL
+Get Flight Details from Bangalore to New Delhi
+Get Train Details from Bangalore to New Delhi
+Verify that there are no buses from Bangalore to New Delhi
+**Skill Used:**
+Selenium, Dynamic Xpaths, Window handling
